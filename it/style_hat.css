@@ -1,0 +1,102 @@
+body {
+	background-image: url(img/5.jpg)
+}
+
+.img {
+  width: 100%;
+  padding: 100px;
+}
+
+.text {
+	font-size: 50px;
+	color: #B0C4DE;
+}
+
+.circle{
+width: 115px;
+height: 115px;
+border: 11px solid;
+border-radius: 115px;
+color: #B0C4DE;
+background-color: #B0E0E6;
+position: absolute;
+top: 25px; left: 1100px;
+ background-image: url(img/1.jpg);
+}
+
+.ice {
+	color: #FFFAFA;
+	font-size: 48px;
+}
+
+.circle2{
+width: 115px;
+height: 115px;
+border: 11px solid;
+border-radius: 115px;
+color: #8B4513;
+background-color: #008000;
+position: absolute;
+top: 175px; left: 1100px;
+background-image: url(img/3.jpg);
+}
+
+.spring{
+	color: #FFFAFA;
+	font-size: 44px;
+}
+
+.circle3{
+width: 115px;
+height: 115px;
+border: 11px solid;
+border-radius: 115px;
+color: #FFFF00;
+background-color: #00FFFF;
+position: absolute;
+top: 325px; left: 1100px;
+background-image: url(img/4.jpg);
+}
+
+.summer{
+	color: #FFFAFA;
+	font-size: 52px;
+}
+
+.circle4{
+width: 115px;
+height: 115px;
+border: 11px solid;
+border-radius: 115px;
+color: #8B4513;
+background-color: #FF8C00;
+position: absolute;
+top: 475px; left: 1100px;
+background-image: url(img/2.jpg);
+}
+
+.autumn{
+	color: #FFFAFA;
+	font-size: 42px;
+}
+
+.rectangle {
+	width: 200px;
+	height: 100px;
+	background: red;
+	position: absolute;
+	top:400px;
+	left:500px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
